@@ -8,6 +8,8 @@
   <img align="center" alt="Rstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
 </div>
   
+ 
+ 
   
 - 👋 Hi, I’m @LucasMBAlbuquerque, a brazilian
 - 👀 I’m interested in publicate my data science works and reviews.
